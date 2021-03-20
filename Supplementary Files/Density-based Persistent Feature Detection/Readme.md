@@ -1,5 +1,7 @@
 # About
-This folder contains supplementary code and files for the paper "A density-based approach to feature detection in persistence diagrams for firn data” by Lawson, Hoffman, Chung, Keegan, and Day. Relevant links will appear in this Readme.
+This folder contains supplementary code and files for the paper 
+
+"A density-based approach to feature detection in persistence diagrams for firn data” by Lawson, Hoffman, Chung, Keegan, and Day. Relevant links will appear in this Readme.
 
 
 # Links
