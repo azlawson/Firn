@@ -9,4 +9,4 @@ by Lawson, Hoffman, Chung, Keegan, and Day. Relevant links will appear in this R
 # Links
 The following link leads to a playlist containing videos of 2D slices ice-core samples at various depths. 
 
-[Link to Playlist](https://youtube.com/playlist?list=PLYL5rxiRGTALZZ1m6efvOeYTxyR4HadDo)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PLYL5rxiRGTALZZ1m6efvOeYTxyR4HadDo/0.jpg)](https://youtube.com/playlist?list=PLYL5rxiRGTALZZ1m6efvOeYTxyR4HadDo)[Link to Playlist])
